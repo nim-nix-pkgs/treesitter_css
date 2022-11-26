@@ -1417,11 +1417,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668757023,
-        "narHash": "sha256-V67dA1Dxie7QfvDA+fSNRTuvL+rQiS87cuTHF0qDSoY=",
+        "lastModified": 1669433483,
+        "narHash": "sha256-FHmAdph2X2b5l8jOynfqBTwsGXS0Mswpwi17OVmRo9A=",
         "owner": "nim-nix-pkgs",
         "repo": "treesitter_css",
-        "rev": "4b376e950819b9ae7d8b3283510e26a1c9c48734",
+        "rev": "792cf61a20f7d43225d1f7301437d9fb2ee503ac",
         "type": "github"
       },
       "original": {
@@ -1446,11 +1446,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1668757023,
-        "narHash": "sha256-V67dA1Dxie7QfvDA+fSNRTuvL+rQiS87cuTHF0qDSoY=",
+        "lastModified": 1669433483,
+        "narHash": "sha256-FHmAdph2X2b5l8jOynfqBTwsGXS0Mswpwi17OVmRo9A=",
         "owner": "nim-nix-pkgs",
         "repo": "treesitter_css",
-        "rev": "4b376e950819b9ae7d8b3283510e26a1c9c48734",
+        "rev": "792cf61a20f7d43225d1f7301437d9fb2ee503ac",
         "type": "github"
       },
       "original": {
@@ -1475,11 +1475,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1668757023,
-        "narHash": "sha256-V67dA1Dxie7QfvDA+fSNRTuvL+rQiS87cuTHF0qDSoY=",
+        "lastModified": 1669433483,
+        "narHash": "sha256-FHmAdph2X2b5l8jOynfqBTwsGXS0Mswpwi17OVmRo9A=",
         "owner": "nim-nix-pkgs",
         "repo": "treesitter_css",
-        "rev": "4b376e950819b9ae7d8b3283510e26a1c9c48734",
+        "rev": "792cf61a20f7d43225d1f7301437d9fb2ee503ac",
         "type": "github"
       },
       "original": {
